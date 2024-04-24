@@ -5,9 +5,9 @@
 ## Brief overview
 1- User Interactive platform to filter and visualize Chicago crime data based on:
 
--Year
--Community area
--Crime type 
+- Year
+- Community area
+- Crime type 
 
 2- Visualize the impact of 7 socioeconomic indicators on crime rates
 
